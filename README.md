@@ -17,15 +17,15 @@ This repository provides a simple yet effective Python script to perform automat
 
 ---
 
-text-summarization/
+.
 ├── src/
-│   └── summarize.py             # Main script for summarization
+│   └── summarize.py           # Metin özetleme işlemini yapan Python betiği
 ├── data/
-│   └── text.txt                 # Input text to summarize
+│   └── text.txt               # Özetlenecek giriş metni
 ├── outputs/
-│   └── summary_output.txt       # Generated summary will be saved here
-├── requirements.txt             # List of dependencies
-└── README.md                    # Project documentation
+│   └── summary_output.txt     # Oluşturulan özet bu dosyaya yazılır
+├── requirements.txt           # Bağımlılıkları tanımlayan dosya
+└── README.md                  # Proje açıklaması (bu dosya)
 
 
 ---
