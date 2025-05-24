@@ -11,11 +11,11 @@ This repository provides a simple yet effective Python script to perform automat
 - 🗃️ Saves output summaries to a separate file for review
 - 🧪 Minimal setup, ready-to-run with only a few dependencies
 
-
+---
 
 ## 🗂️ Project Structure
 
----
+📁 Proje Yapısı
 
 .
 ├── src/
@@ -27,28 +27,34 @@ This repository provides a simple yet effective Python script to perform automat
 ├── requirements.txt           # Bağımlılıkları tanımlayan dosya
 └── README.md                  # Proje açıklaması (bu dosya)
 
-
 ---
 
 ## ⚙️ Installation
 
 1. Clone the repository:
+```bash
 git clone https://github.com/your-username/text-summarization-script-only.git
 cd text-summarization-script-only
+```
 
 2. Install dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 ---
 
 ## 📌 Usage
 
 Run the summarization script:
-
+```bash
 python src/summarize.py
+```
 
 The summarized output will be saved to:
+```
 outputs/summary_output.txt
+```
 
 ---
 
@@ -60,12 +66,17 @@ By default, this script uses the `facebook/bart-large-cnn` model, which is highl
 
 ## 📎 Example
 
-Input (data/text.txt):
+**Input (data/text.txt):**
+```
 Machine learning is a field of computer science that gives computers the ability to learn without being explicitly programmed...
+```
 
-Output (outputs/summary_output.txt):
+**Output (outputs/summary_output.txt):**
+```
 Machine learning allows computers to learn automatically without being explicitly programmed.
+```
 
+---
 
 ## 🙌 Acknowledgements
 
