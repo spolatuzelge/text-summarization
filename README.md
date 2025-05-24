@@ -15,15 +15,16 @@ This repository provides a simple yet effective Python script to perform automat
 
 ## 🗂️ Project Structure
 
-text-summarization-script-only/
+text-summarization/
 ├── src/
-│   └── summarize.py         # Main script for summarization
+│   └── summarize.py             # Main script for summarization
 ├── data/
-│   └── text.txt             # Input text to summarize
+│   └── text.txt                 # Input text to summarize
 ├── outputs/
-│   └── summary_output.txt   # Generated summary will be saved here
-├── requirements.txt         # List of dependencies
-└── README.md                # Project documentation
+│   └── summary_output.txt       # Generated summary will be saved here
+├── requirements.txt             # List of dependencies
+└── README.md                    # Project documentation
+
 
 ---
 
