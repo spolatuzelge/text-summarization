@@ -11,9 +11,11 @@ This repository provides a simple yet effective Python script to perform automat
 - 🗃️ Saves output summaries to a separate file for review
 - 🧪 Minimal setup, ready-to-run with only a few dependencies
 
----
+
 
 ## 🗂️ Project Structure
+
+---
 
 text-summarization/
 ├── src/
