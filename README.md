@@ -63,13 +63,6 @@ Machine learning is a field of computer science that gives computers the ability
 Output (outputs/summary_output.txt):
 Machine learning allows computers to learn automatically without being explicitly programmed.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - feel free to use, modify, and distribute.
-
----
 
 ## 🙌 Acknowledgements
 
